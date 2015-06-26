@@ -1,0 +1,6 @@
+usecase\viewparam\DataBean.class
+usecase\viewparam\CustomExternalContext.class
+usecase\viewparam\PhoneNumber.class
+usecase\viewparam\PhoneNumberConverter.class
+usecase\viewparam\CustomExternalContextFactory.class
+usecase\viewparam\PhoneNumberValidator.class
