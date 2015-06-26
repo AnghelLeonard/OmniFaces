@@ -1,0 +1,4 @@
+omnify\usecase\viewparam\PhoneNumber.class
+omnify\usecase\viewparam\PhoneNumberConverter.class
+omnify\usecase\viewparam\PhoneNumberValidator.class
+omnify\usecase\viewparam\DataBean.class
