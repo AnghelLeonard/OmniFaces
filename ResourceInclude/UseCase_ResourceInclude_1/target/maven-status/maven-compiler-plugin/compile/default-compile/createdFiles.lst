@@ -1,0 +1,4 @@
+usecase\resourceinclude\ByteServletBean.class
+usecase\resourceinclude\TextServletBean.class
+usecase\resourceinclude\ByteServlet.class
+usecase\resourceinclude\TextServlet.class
