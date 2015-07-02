@@ -1,0 +1,3 @@
+usecase\validateBean\AdminContactValidationGroup.class
+usecase\validateBean\ContactBean.class
+usecase\validateBean\MemberContactValidationGroup.class
