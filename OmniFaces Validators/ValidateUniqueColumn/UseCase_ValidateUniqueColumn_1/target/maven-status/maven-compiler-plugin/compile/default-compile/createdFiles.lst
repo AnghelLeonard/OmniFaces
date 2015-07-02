@@ -1,0 +1,3 @@
+usecase\validateUniqueColumn\PlayerUniqueValidator.class
+usecase\validateUniqueColumn\Player.class
+usecase\validateUniqueColumn\PlayerBean.class
