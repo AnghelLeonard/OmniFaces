@@ -1,0 +1,6 @@
+omnify\usecase\validateBean\MemberContactValidationGroup.class
+omnify\usecase\validateBean\ContactGroup.class
+omnify\usecase\validateBean\AdminContactValidationGroup.class
+omnify\usecase\validateBean\ValidContact.class
+omnify\usecase\validateBean\ContactBean.class
+omnify\usecase\validateBean\ContactValidator.class
