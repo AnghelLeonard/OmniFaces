@@ -1,0 +1,4 @@
+usecase\cache\OmnifyBean.class
+usecase\cache\CacheComponent.class
+usecase\cache\CacheTagHandlerDelegateFactory.class
+usecase\cache\CacheTagHandlerDelegate.class
