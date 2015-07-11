@@ -1,5 +1,5 @@
 Mastering OmniFaces book source code
- 
+  
 The applications in this folder are for Part 1, chapter 3, OmniFaces TagHandlers, as follows:
 
 // Converter & Validator
